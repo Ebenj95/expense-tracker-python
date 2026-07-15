@@ -1,22 +1,46 @@
-# Expense Tracker (Python)
+# 💰 Expense Tracker (Python)
 
-A simple command-line expense tracker built using Python.
+A simple command-line Expense Tracker built using Python.
 
-## Features
+## ✨ Features
 
-- Add Expense
-- View Expenses
-- Search Expenses
-- Delete Expenses
-- Calculate Total Expenses
+- ➕ Add Expense
+- 📋 View Expenses
+- 🔍 Search Expenses
+- ❌ Delete Expenses
+- 💵 Calculate Total Expenses
 
-## Technologies
+## 🛠 Technologies Used
 
 - Python
 - File Handling
+- Functions
+- Loops
+- Conditional Statements
 
-## How to Run
+## 📁 Project Structure
+
+```
+expense-tracker-python/
+│── expense_tracker.py
+│── expenses.txt
+│── README.md
+│── .gitignore
+```
+
+## 🚀 How to Run
 
 ```bash
 python expense_tracker.py
 ```
+
+## 🎯 Future Improvements
+
+- Edit Expense
+- Date & Time
+- Input Validation
+- Web version using Django
+
+## 👨‍💻 Author
+
+**Eben John Thomas**
